@@ -13,8 +13,6 @@ Features
 
 - The program checks if the input is valid (a positive number).
 
-- If the age is 18 or above, the program prints:
- "You are eligible to vote."
+- If the age is 18 or above, the program prints:  (You are eligible to vote)
 
--If the age is less than 18, the program prints:
-"You are less than 18 years old and NOT eligible to vote."
+-If the age is less than 18, the program prints: (You are less than 18 years old and NOT eligible to vote)
