@@ -16,4 +16,8 @@ This is a **C# console application** that checks if a person is eligible to vote
 3. If the age is **18 or above**, the program prints:  
    _"You are eligible to vote."_  
 4. If the age is **less than 18**, the program prints:  
-   _"You are less than 18 years old and NOT eligible to vote."_  
+   _"You are less than 18 years old and NOT eligible to vote."_
+
+## How to Run:
+Open the project in Visual Studio or any C# IDE.
+Compile and run the program.
