@@ -1,6 +1,4 @@
 ##Voter Eligibility Checker
-
-##About the Program
 This is a  C# console application that checks if a person is eligible to vote. The program prompts the user to enter their age and determines if they meet the voting age requirement (18 years and above).
 
 Features
